@@ -50,7 +50,7 @@ For more, please see my [GitHub repo list](https://github.com/tauqeer92?tab=repo
 Full-time software development course focusing on:	
 - Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles
 - Agile principles, pair programming, stand-ups, retros, and sprint planning
-- Web frameworks, version control, and CI/CD to create full stack web apps
+- Web frameworks, version control to create full stack web apps
 - Facilitating knowledge sharing
 - Conducting code reviews, providing feedback, and receiving feedback from others
 - Demonstrated the ability to learn new languages and frameworks within a short period of time through self-guided learning
